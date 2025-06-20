@@ -1,4 +1,4 @@
-# Regen - 正则表达式生成工具 / Regular Expression Generator
+# Regen 📋
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
