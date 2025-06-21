@@ -3,12 +3,10 @@
 #include <vector>
 #include <map>
 #include <sstream>
-#include <regex>
 #include <cctype>
 #include <algorithm>
 #include <iomanip>
 #include <clocale>
-#include <locale>
 
 using namespace std;
 
